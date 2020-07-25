@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m studying to be a software tester. In a former life I was a digital marketer, and we do more UAT testing than you might think. So that was how I  discovered what I really wanted to do. 
+🌱 I’m studying to be a software tester. In a former life I was a digital marketer, and we do more UAT testing than you might think. So that was how I discovered what I wanted to do next.
 
 🔭 My most recent project was a website for a cupcake bakery, and I've also worked in ecommerce for a coffee distribution company. 
 
