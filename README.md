@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm looking for my next role. 
 
 🌱 I'm a software tester. In a former life I was a digital marketer, and we do more UAT testing than you might think. That was how I discovered what I wanted to do next.
 
