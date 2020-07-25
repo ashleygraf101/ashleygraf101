@@ -2,7 +2,7 @@
 
 🌱 I'm a software tester. In a former life I was a digital marketer, and we do more UAT testing than you might think. So that was how I discovered what I wanted to do next.
 
-🔭 My most recent project was a website for a cupcake bakery - requirements gathering, development, SEO, the whole kit & kaboodle. I've also worked in ecommerce for a coffee distribution company. 
+🔭 I've been moving out of marketing for a while. My most recent project was a website for a cupcake bakery. I've also worked in ecommerce for a coffee distribution company. 
 
 ⚡ Fun fact: The first thing I ever tested was the battery pack on a solar electric car. It was where I first thought abour quality and safety. As a participant in the 2015 World Solar Challenge, I ran Sunswift's social media during that race, and helped out the electrical team during the leadup to the race. 
 
