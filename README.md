@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: The first thing I ever tested was the battery pack on a solar electric car. It was where I first deeply thought abour quality and safety. As a participant in the 2015 World Solar Challenge, I ran Sunswift's social media, and helped out the electrical team during the leadup to the race. In fact, that's my team shirt in the photo. I still have it!
 
-📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at @ashleygraf_.
+📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a>.
 
 💬 Ask me about: Documentation that tells you the how and the why, choosing the right tool for the job, and building resiliency into software from the perspective of help desk. 
 
