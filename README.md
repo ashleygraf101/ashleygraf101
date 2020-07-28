@@ -1,4 +1,4 @@
-### Hi there, I'm Ashley 👋 .
+### Hi there, I'm Ashley 👋 
 
 🌱 I'm a new software tester, with work experience in manual testing, and portfolio in automated testing. My thought process is outlined in each README, as well as a step-by-step-by-step for installing and running each project.
 
@@ -10,7 +10,7 @@
 
 📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a>.
 
-😄 Pronouns: She/her
+😄 Pronouns: She/her.
 
 <!--
 **ashleygraf101/ashleygraf101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
