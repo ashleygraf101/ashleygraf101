@@ -12,7 +12,7 @@ As a learner, I enjoy automating the testing of every little aspect of a codebas
 
 💬 Ask me about: Documentation that tells you the how and the why, choosing the right tool for the job, and building resiliency into software from the perspective of help desk. 
 
-📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a>.
+📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a> or dev.to at <a href="https://dev.to/ashleygraf101">ashleygraf101</a>. 
 
 😄 Pronouns: She/her.
 
