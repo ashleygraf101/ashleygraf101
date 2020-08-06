@@ -1,5 +1,7 @@
 ### Hi there, I'm Ashley 👋 
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--b3UU7S_S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/9s4tuxu0ikudblsajf92.jpg">
+
 🌱 I'm currently working on my career change! I'm a digital marketer turned software tester. Digital marketers do more UAT than you might think, from the perspective of a product owner. That was how I discovered what I wanted to do next. As part of my move out of marketing, my most recent project was a website for a celebrity cupcake bakery. I also tested the features I wrote about for GetPylon, a solar sales software company. Before that, I worked in eCommerce for a coffee distribution company as the conduit between dev & line marketing/customer service/logistics/accounts/etc. It was 50/50 help desk/marketing assistant, a very unique role where I learnt a lot.
 
 ✨ Over the last few months, I've put pedal to the metal and started putting together a test automation portfolio, where I apply the test theory I've learnt, reasoning and coding in public. I have outlined my thought process in my READMEs, alongside a step-by-step-by-step for installing and running each project.
