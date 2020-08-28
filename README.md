@@ -8,7 +8,7 @@ As a learner, I enjoy pushing for 100% code coverage across multiple test levels
 
 I've also had the opportunity to start developing my testing philosophy. I believe that manual and automated testing complement each other, and it's not an either-or debate. They each have their place throughout the software development life cycle. What's foundational to success is truly understanding the product (the product) and its users. And that starts with a conversation with product (the team). Coming from eCommerce, I have very much a risk-based testing framework.
 
-📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a> or dev.to at <a href="https://dev.to/ashleygraf101">ashleygraf101</a>. 
+📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a> or dev.to at <a href="https://dev.to/ashleygraf_">ashleygraf_</a>. 
 
 😄 Pronouns: She/her.
 
