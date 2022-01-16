@@ -4,7 +4,7 @@
 
 I've also had the opportunity to start developing my testing philosophy. I believe that manual and automated testing complement each other, and it's not an either-or debate. They each have their place throughout the software development life cycle. What's foundational to success is truly understanding the product (the product) and its users. And that starts with a conversation with product (the team). 
 
-Over the last year and a half, I have been working for Digital Purpose as a hybrid tester. In that times i've been manual testing, with some performance [JMeter] and automation projects in Java [JUnit] and Postman [JavaScript] thrown in, as well as advising on communications strategy where needed.
+Over the last year and a half, I have been working for Digital Purpose as a hybrid tester. In that times i've been manual testing, with some performance [JMeter] and automation projects in Java [JUnit] and Postman [JavaScript] thrown in, as well as advising on comms where needed.
 
 📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a> or dev.to at <a href="https://dev.to/ashleygraf_">ashleygraf_</a>.
 
