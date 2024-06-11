@@ -1,10 +1,8 @@
 ### Hi there, I'm Ashley 👋 
 
-🌱 I'm a digital marketer turned software tester. Digital marketers do more UAT than you might think, from the perspective of a product owner. That was how I discovered what I wanted to do next. As part of my move out of marketing, my most recent project was a website for a celebrity cupcake bakery. I also tested the features I wrote about for GetPylon, a solar sales software company. Before that, I worked in eCommerce for a coffee distribution company as the conduit between dev & line marketing/customer service/logistics/accounts/etc. It was 50/50 help desk/marketing assistant, a very unique role where I learnt a lot.
+🌱 I'm a digital marketer turned software tester. Over my time so far as a QA I've developed a passion for the Operations and Cyber Security streams, and you will often find me working out an RCA or sizing out out an issue with the Ops team, or sniffing out a CWE or putting together documentation for the Cyber Security teams to do their stuff. 
 
-I've also had the opportunity to start developing my testing philosophy. I believe that manual and automated testing complement each other, and it's not an either-or debate. They each have their place throughout the software development life cycle. What's foundational to success is truly understanding the product (the product) and its users. And that starts with a conversation with product (the team). 
-
-Over the last year and a half, I have been working for Digital Purpose as a hybrid tester. In that times i've been manual testing, with some performance [JMeter] and automation projects in Java [JUnit] and Postman [JavaScript] thrown in, as well as advising on comms where needed.
+Over the last year and a half, I have been working for Digital Purpose as a hybrid tester. In that time, I've been manual testing, with some performance [JMeter] and automation projects in Java [JUnit] and Postman [JavaScript] thrown in, as well as advising on comms where needed. At Qantas, I did more manual testing, for desktop as well as mobile. Amongst a variety of interesting manual tasks, I assisted the Marketing, Operations, and Cyber Security teams, with the occasional project management and compliance task thrown in. 
 
 📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a> or dev.to at <a href="https://dev.to/ashleygraf_">ashleygraf_</a>.
 
