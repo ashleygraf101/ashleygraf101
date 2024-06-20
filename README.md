@@ -2,9 +2,9 @@
 
 🌱 I'm a digital marketer turned software tester. Over my time so far as a QA I've developed a passion for the Operations and Cyber Security streams, and you will often find me working out an RCA or sizing out out an issue with the Ops team, or sniffing out a CWE or putting together documentation for the Cyber Security teams to do their stuff. 
 
-I have most recently been working with Qantas on testing desktop and mobile applications. In this capacity I also ended up assisting the Marketing, Operations, and Cyber Security teams. Over the first year and a half of my career as a QA, I had been working for Digital Purpose as a hybrid tester. In that time, I've been manual testing, with some performance [JMeter] and automation projects in Java [JUnit] and Postman [JavaScript] thrown in, as well as advising on comms where needed. 
+I have most recently been working with Qantas on testing desktop and mobile applications. In this time, my achievements included pairing with developers on solving bugs and test automation, finding the source of a pile of production issues that seemed unrelated at first glance, and leading testing efforts on various projects. In this capacity I also ended up assisting the Marketing, Operations, and Cyber Security teams. Over the first year and a half of my career as a QA, I had been working for Digital Purpose as a hybrid tester. In that time, I've been manual testing, with some performance [JMeter] and automation projects in Java [JUnit] and Postman [JavaScript] thrown in, as well as advising on comms where needed. 
 
-I have spoken at MOT TestBash about how to improve testability for stronger exploratory testing. 
+I have spoken at MOT TestBash about how to improve testability for stronger exploratory testing. <a href="https://www.ministryoftesting.com/testbash-sessions/testability-methods-to-enhance-exploratory-testing-ashley-graf">Link to my TestBash session</a>
 
 📫 How to reach me: Email me at ashley.graf101@gmail.com or find me on Twitter at <a href="https://twitter.com/ashleygraf_">@ashleygraf_</a> or dev.to at <a href="https://dev.to/ashleygraf_">ashleygraf_</a>.
 
